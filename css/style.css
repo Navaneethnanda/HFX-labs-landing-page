@@ -29,8 +29,8 @@ Do not remove the back-link in this web template
 	aspect-ratio: 5000/1842;
 	background-image: 
     linear-gradient(
-      rgba(250, 214, 32, 0.5),
-      rgba(0,0,0, 0.5)
+      rgba(250, 214, 32, 0.1),
+      rgba(0,0,0, 0.6)
     ), url('../img/background1.jpeg');
 	background-repeat: no-repeat;
 	background-size: cover;
